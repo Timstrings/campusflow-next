@@ -142,8 +142,7 @@ For each observed problem, record:
 No claim is made here that the application is defect-free. Unperformed
 checks remain pending.
 
-## 10. Review
-
+## 10. Review.
 - Timothy Yusuf — Engineer A: Pending.
 - Fredrick Ogbodo — Engineer B: Pending.
 - Review date: To be recorded.
