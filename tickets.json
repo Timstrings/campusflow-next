@@ -9,5 +9,16 @@
     "status": "open",
     "assigned_to": null,
     "notes": []
+  },
+  {
+    "id": "T002",
+    "title": "network outage",
+    "category": "Network",
+    "urgency": "medium",
+    "affected_users": 9,
+    "priority": "medium",
+    "status": "open",
+    "assigned_to": null,
+    "notes": []
   }
 ]
